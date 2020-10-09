@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Name
+Comment=Comment
+GenericName=GenericName
+Exec=com.github.mauricioglz.care %U
+Icon=com.github.mauricioglz.care
+Terminal=false
+Categories=Utility;GTK;Development;
+Keywords=Develop
